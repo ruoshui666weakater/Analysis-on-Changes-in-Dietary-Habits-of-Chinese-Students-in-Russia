@@ -1,4 +1,4 @@
-# Changes in Dietary Habits of Chinese Students in Russia
+# Analysis on Changes in Dietary Habits of Chinese Students in Russia
 
 ![Project Banner](https://via.placeholder.com/1200x300?text=Chinese+Students+Dietary+Habits+in+Russia) <!-- You can replace this with an actual banner image if available -->
 
